@@ -7,6 +7,7 @@ input_files/*
 history/*
 # except .gitkeep file
 !history/.gitkeep
+output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
